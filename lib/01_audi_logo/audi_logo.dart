@@ -10,9 +10,14 @@ class Audi extends StatefulWidget {
 class _AudiState extends State<Audi> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(backgroundColor: Colors.lightGreen,
-      appBar: AppBar(backgroundColor: Colors.lightGreen,
-        title: Text("My App",style: TextStyle(color: Colors.white),),
+    return Scaffold(
+      backgroundColor: Colors.lightGreen,
+      appBar: AppBar(
+        backgroundColor: Colors.lightGreen,
+        title: Text(
+          "My App",
+          style: TextStyle(color: Colors.white),
+        ),
         centerTitle: true,
       ),
       body: Center(
@@ -26,7 +31,11 @@ class _AudiState extends State<Audi> {
             height: 270,
             width: 270,
             decoration: BoxDecoration(color: Colors.lightGreenAccent),
-            child: Text("OOOO",style: TextStyle(color: Colors.black38,letterSpacing: -50,fontSize: 150),),
+            child: Text(
+              "OOOO",
+              style: TextStyle(
+                  color: Colors.black38, letterSpacing: -50, fontSize: 150),
+            ),
           ),
         ),
       ),
