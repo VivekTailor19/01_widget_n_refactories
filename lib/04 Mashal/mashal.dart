@@ -19,13 +19,8 @@ class _MashalState extends State<Mashal> {
         ),
         centerTitle: true,
       ),
-      body: Center(
-        child: Container(
-          width: 400,
-          height: 600,
 
-        ),
-      ),
+
     );
   }
 }
