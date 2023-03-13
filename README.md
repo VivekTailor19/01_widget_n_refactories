@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 <p> 
   
-<img scr = "https://user-images.githubusercontent.com/119835214/224661853-f4c680dd-af6b-49c5-b2eb-41c3b6bad2dd.PNG" height = "50" width = "50%>
+<img src = "https://user-images.githubusercontent.com/119835214/224661853-f4c680dd-af6b-49c5-b2eb-41c3b6bad2dd.PNG" height = "50" width = "50%">
 <img src = "https://user-images.githubusercontent.com/119835214/224661855-3cce3387-3bd1-492d-bde2-7c1e0d99fcd1.PNG" height = "50" width = "50%>
 <img src = "https://user-images.githubusercontent.com/119835214/224661858-b879c653-9c00-41ae-ad62-45e0a592fb14.PNG" height = "50" width = "50%>
 <img src = "https://user-images.githubusercontent.com/119835214/224661862-d6612201-32b0-44af-8bb3-2eaf67c9442e.PNG" height = "50" width = "50%>
